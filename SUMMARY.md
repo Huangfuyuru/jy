@@ -3,3 +3,7 @@
 - [笑傲江湖](xajh.md)
 - [鹿鼎记](ldj.md)
 - [倚天屠龙记](yttlj.md)
+- [连城诀](lcj.md)
+- [书剑恩仇录](sjecl.md)
+- [神雕侠侣](sdxl.md)
+- [雪山飞狐](xsfh.md)

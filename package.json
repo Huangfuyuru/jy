@@ -1,0 +1,22 @@
+{
+  "name": "jy",
+  "version": "1.0.0",
+  "description": "查良镛，GBM ，OBE（英语：Louis Cha Leung-yung[2][注 1]，1924年3月10日[4]－2018年10月30日[5]），男，笔名金庸，香港人，香港四大才子之一，祖籍浙江海宁，武侠小说泰斗，1948年起到终老，一直于香港生活。自1950年代起，其以笔名“金庸”创作多部脍炙人口的武侠小说，包括《射雕英雄传》、《神雕侠侣》、《倚天屠龙记》、《天龙八部》、《笑傲江湖》、《鹿鼎记》等。历年来金庸笔下的著作屡次改编为电视剧、电影等影视作品，对华人影视文化可谓贡献重大。这亦奠定其成为华人知名作家的基础，素有“有华人的地方，就有金庸的武侠”的称赞。金庸早年于香港创办《明报》系列报刊，并在1980年代涉足政界，曾任香港基本法起草委员会委员[6][7]。他因其优秀的小说作品而被称为“香港四大才子”之一[8]，后与古龙、梁羽生合称为“中国武侠小说三剑客”。于2018年10月30日下午因病于香港养和医院逝世[9]。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huangfuyuru/jy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huangfuyuru/jy/issues"
+  },
+  "homepage": "https://github.com/Huangfuyuru/jy#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
